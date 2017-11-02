@@ -14,8 +14,8 @@ keywords: 前端,js,Angular2,C,程序猿,曾亮,博客,cczeng,码农,曾亮的�
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cczeng.github.io
-root: /
+url: https://mixturehd.github.io/cake/
+root: /cake/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
