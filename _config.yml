@@ -65,7 +65,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-minimal
+theme: yilia
 
 
 # 自动生成sitemap
@@ -100,5 +100,5 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:cczeng/cczeng.github.io.git
+  repo: git@github.com:mixtureHD/cake.git
   branch: master
